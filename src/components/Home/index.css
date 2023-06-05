@@ -1,0 +1,27 @@
+.bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 90vh;
+}
+.bg-dark-background {
+  background-color: #000000;
+}
+.bg-light-background {
+  background-color: #ffffff;
+}
+.home-img {
+  width: 20%;
+  max-width: 100px;
+}
+.heading-dark {
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: 700;
+}
+.heading-light {
+  color: #000000;
+  font-size: 30px;
+  font-weight: 700;
+}

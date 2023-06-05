@@ -1,0 +1,22 @@
+.n-f-heading-dark {
+  color: #ffffff;
+  font-size: 23px;
+  font-weight: 700;
+}
+.n-f-heading-light {
+  color: #334155;
+  font-size: 23px;
+  font-weight: 700;
+}
+.dark-description {
+  color: #ffffff;
+  font-size: 17px;
+}
+.light-description {
+  color: #64748b;
+  font-size: 17px;
+}
+.not-found-img {
+  width: 50%;
+  max-width: 400px;
+}
